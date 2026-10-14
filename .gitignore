@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Godot
+.godot/
+*.tmp
+*.uid
+
+# Runtime
+*.lock
+*.log
